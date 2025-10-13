@@ -2,9 +2,12 @@
 <img src="https://raw.githubusercontent.com/avdeshjadon/avdeshjadon/main/Banner.png" alt="GitHub Banner" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=500&lines=Hello+World!+%F0%9F%91%8B,+I'm+Avdesh+Jadon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B+I'm+Avdesh+Jadon;Full-Stack+Developer;Software+Developer+%26+Tester;Autonomous+Tools+Enthusiast" alt="Typing SVG" />
 </p>
+
 <h3 align="center">🚀 Indian Software Developer | Full Stack Engineer | Tech Explorer</h3>
+
+
 
 ---
 
