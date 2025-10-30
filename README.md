@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-  <img align="right" src="https://raw.githubusercontent.com/avdeshjadon/avdeshjadon/main/myvid.gif" width="350px" alt="My Video Animation" />
+  <img align="right" src="https://raw.githubusercontent.com/avdeshjadon/avdeshjadon/main/myvid.gif" width="320px" alt="My Video Animation" />
 </p>
 
 
