@@ -14,8 +14,9 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+  <img align="right" src="https://raw.githubusercontent.com/avdeshjadon/avdeshjadon/main/myvid.gif" width="300px" alt="My Video Animation">
 </p>
+
 
 - 🔥 **Passionate Full Stack Developer** crafting digital experiences  
 - 🎯 **Currently mastering**: Advanced AI/ML, Cloud Architecture & DevOps  
