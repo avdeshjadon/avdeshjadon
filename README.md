@@ -74,14 +74,6 @@
 
 ---
 
-## 🌍 Visitor Map  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avdeshjadon&theme=radical" />
-</p>
-
----
-
 ## 🐍 Contribution Snake  
 
 <p align="center">
