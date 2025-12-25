@@ -41,15 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdeshjadon&theme=radical&show_icons=true&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=avdeshjadon&theme=radical&hide_border=false" height="160" />
-</div>
-
----
-
 ## 💻 Tech Stack  
 
 <div align="center">
@@ -83,5 +74,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>  
-
-✨ *Watch my contributions come to life with this cool snake animation!* ✨
