@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B+I'm+Avdesh+Jadon;Full-Stack+Developer;Software+Developer+%26+Tester;Autonomous+Tools+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Indian Software Developer | Full Stack Engineer | Tech Explorer</h3>
+<h3 align="center">Indian Software Developer | Full Stack Engineer | Tech Explorer</h3>
 
 
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 
 <p align="center">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="320px" alt="My Video Animation" />
@@ -19,17 +19,17 @@
 
 
 
-- 🔥 **Passionate Full Stack Developer** crafting digital experiences  
-- 🎯 **Currently mastering**: Advanced AI/ML, Cloud Architecture & DevOps  
-- 🤝 **Open to collaborate on**: Revolutionary Open Source Projects  
-- 🧠 **Always learning**: Cutting-edge technologies and frameworks  
-- 💡 **Ask me about**: React, Node.js, Python, System Design  
-- 📧 **Reach me at**: [EMAIL](mailto:thevdeshjadon@gmail.com)  
-- 🎮 **Fun fact**: I turn coffee into code and bugs into features ☕➡️💻  
+- **Passionate Full Stack Developer** crafting digital experiences  
+- **Currently mastering**: Advanced AI/ML, Cloud Architecture & DevOps  
+- **Open to collaborate on**: Revolutionary Open Source Projects  
+- **Always learning**: Cutting-edge technologies and frameworks  
+- **Ask me about**: System Design, Software Testing, Full Stack 
+- **Reach me at**: [EMAIL](mailto:thevdeshjadon@gmail.com)  
+- **Fun fact**: I turn coffee into code and bugs into features  
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <div align="center">
   <a href="mailto:thevdeshjadon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -40,7 +40,7 @@
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## Contribution Snake  
 
 <p align="center">
   <picture>
