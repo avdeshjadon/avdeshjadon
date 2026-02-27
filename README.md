@@ -29,17 +29,6 @@
 
 ---
 
-## Connect with Me  
-
-<div align="center">
-  <a href="mailto:thevdeshjadon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/avdeshjadon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio-rust-six-39.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://github.com/avdeshjadon" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
----
-
 ## Tech Stack  
 
 <div align="center">
@@ -73,3 +62,42 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>  
+
+---
+
+
+##  Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</div>
+
+---
+
+##  Let's Build Something Amazing Together
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
+
+**I'm always open to collaborating on interesting projects, discussing ideas, or just connecting with fellow developers.**
+
+<br/>
+
+<a href="mailto:thevdeshjadon@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Send_me_an_Email-EA4335?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/avdeshjadon">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://portfolio-rust-six-39.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-A78BFA?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>
