@@ -14,7 +14,7 @@
 ##  About Me  
 
 <p align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="320px" alt="My Video Animation" />
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQxOWk4aG1mdjE3YTVmdTBlOWI5bjVvdTZrNWNzMWR0Njh5anRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" width="400px" height="200px" alt="My Video Animation" />
 </p>
 
 
